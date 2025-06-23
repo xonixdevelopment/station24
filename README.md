@@ -65,6 +65,6 @@ Please refer to the bundled `README.txt` for full setup details.
 <details>
 <summary><strong>📥 DOWNLOAD</strong></summary>
 
-📦 [Station 24.zip](#) *(121.9 MB)*
+📦 [Station 24.zip](https://github.com/xonixdevelopment/station24/releases/download/station24-v1.0.0/Station24.zip) *(119 MB)*
 
 </details>
